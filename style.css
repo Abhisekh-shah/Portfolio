@@ -367,9 +367,9 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  border-radius: 3rem;
+  width: 60%;
+  height: 60%;
 }
 
 .project-title {
@@ -459,24 +459,3 @@ footer p {
 }
 
 
-@media (max-width: 480px) {
-  .profile-pic {
-    height: 180px;
-    max-width: 200px;
-  }
-}
-
-
-@media (max-width: 480px) {
-  .about-pic {
-    height: 180px;
-    max-width: 180px; 
-  }
-}
-
-@media (max-width: 768px) {
-  .about-pic {
-    height: 90%;
-    max-width: 350px; 
-  }
-}
